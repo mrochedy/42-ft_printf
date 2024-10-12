@@ -4,6 +4,8 @@ Here is my implementation of **ft_printf**, a custom implementation of the stand
 
 Here, you'll find a carefully crafted version that was evaluated by three different students, as well as the **Moulinette** correction tool. While every effort was made to ensure the code is bug-free, errors may still exist. Your feedback is highly appreciated!
 
+<img width="198" alt="110/100 grade" src="https://github.com/user-attachments/assets/4be14bc6-0746-4bcb-9cd6-ee4f319ab093">
+
 ## About the Project
 
 The main goals of the 42 **ft_printf** project are to learn variable argument lists handling, to improve our C-string manipulation and formatting skills and finally to have **our own** printf implementation, ready for use in our other 42 projects.
